@@ -1,4 +1,3 @@
-# Hotel-Management-System
 # Hotel Management System - Prolog Implementation
 
 ## Overview
