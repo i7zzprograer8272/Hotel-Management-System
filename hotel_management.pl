@@ -1,10 +1,3 @@
-/*
- Hotel Management System - Prolog Implementation
- Author: [Your Name]
- Date: [Current Date]
- Course: Artificial Intelligence/Logic Programming
-*/
-
 % ==================== DATABASE FACTS ====================
 
 % Room facts: room(Number, Type, Price, Status)
